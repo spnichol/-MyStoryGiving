@@ -90,7 +90,7 @@ require(quanteda)
 
 ```
 
-#remove weird character for apostrophe 
+#remove special encodings 
 
 ```{r}
 
